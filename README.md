@@ -1,8 +1,8 @@
 # Jaehyun Park
 
-## [Social-Trend-Agent] ver.1.0
+## [Social-Trend-Agent] v1.0.0
 
-https://github.com/user-attachments/assets/63e93d6d-f28e-448b-bfdf-cc111e98daef
+https://github.com/user-attachments/assets/806e3668-c61e-4d21-bed3-ba150b0b0871
 
 ## 💻 Skills / Tools
 
