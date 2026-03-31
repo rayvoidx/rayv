@@ -1,6 +1,7 @@
 # Jaehyun Park
 
 ## [Social-Trend-Agent] v1.0.0
+- Release date: 2026-03-31
 
 https://github.com/user-attachments/assets/806e3668-c61e-4d21-bed3-ba150b0b0871
 
