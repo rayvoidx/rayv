@@ -3,7 +3,7 @@
 ## [Social-Trend-Agent] v1.1.0
 - Release date
   * v1.0.0: 2026-03-31
-  * v1.1.0: 2026-04-05 (라이트 모드, 분석 모드 추가)
+  * v1.1.0: 2026-04-05 (라이트 모드, 분석 모드)
 
 https://github.com/user-attachments/assets/806e3668-c61e-4d21-bed3-ba150b0b0871
 
