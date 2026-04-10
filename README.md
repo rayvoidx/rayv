@@ -1,6 +1,6 @@
 # Jaehyun Park
 
-## [Social-Trend-Agent] v1.1.0
+## [Social-Trend-Agent] v1.2.0
 
 ### Release Timeline
 
