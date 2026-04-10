@@ -1,9 +1,14 @@
 # Jaehyun Park
 
 ## [Social-Trend-Agent] v1.1.0
-- Release date
-  * v1.0.0: 2026-03-31
-  * v1.1.0: 2026-04-05 (라이트 모드, 분석 모드)
+
+### Release Timeline
+
+| 버전 | 날짜 | 코드네임 | 주요 변경 |
+|------|------|----------|-----------|
+| **v1.0.0** | 2026-03-31 | Initial Release | LangGraph 3-에이전트 파이프라인, Brave Search 수집, React 대시보드, FastAPI 백엔드, 마크다운 리포트 |
+| **v1.1.0** | 2026-04-05 | Light & Modes | 라이트/다크 테마, quick/standard/deep 분석 모드, SSE 실시간 스트리밍 개선, Agent Collaboration 시각화 |
+| **v1.2.0** | 2026-04-10 | Harness & Agentic | Harness Engineering 5개 모듈, OpenClaw 6계층 에이전틱 패턴, 6개 플랫폼 수집, 보안 강화, 성능 50-60% 개선 |
 
 https://github.com/user-attachments/assets/806e3668-c61e-4d21-bed3-ba150b0b0871
 
