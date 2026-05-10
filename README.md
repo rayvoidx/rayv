@@ -61,6 +61,7 @@ https://github.com/user-attachments/assets/806e3668-c61e-4d21-bed3-ba150b0b0871
 ![VoyageAI](https://img.shields.io/badge/-VoyageAI-111827?style=for-the-badge&logoColor=ffffff)
 
 ### Cloud Platforms
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=ffffff)
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=for-the-badge&logo=Microsoft-Azure&logoColor=ffffff)
 
 ### Observability
